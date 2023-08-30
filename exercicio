@@ -1,0 +1,53 @@
+// 1) a- indefinido b- nulo c-11 d-3 e- 3, 19, 5, 6, 7, 8, 9, 10, 11, 12, 13 f-9
+
+
+
+// 2) subi num onibus em Mirrocos 27 letras
+
+// 3) 
+// a-
+// /* // let nome = prompt("defina um nome de usuario");
+// // let email = prompt("digite seu email");
+
+// // console.log("O e-mail", email, "foi cadastrado com sucesso. seja bem vindo(a)", nome + "!");
+
+// // b-
+// const array = ["pizza", "xis", "sorvete", "carne", "reboco", "papel"];
+// const arrayB = [0, 1, 2, 3, 4, 5];
+
+// console.log(array);
+// console.log("estas sao minhas comidas favoritas");
+// console.log(array[0]);
+// console.log(array[1]);
+// console.log(array[2]);
+// console.log(array[3]);
+// console.log(array[4]);
+// console.log(array[5]);
+
+// array[1] = prompt("qual a comida favorita do outro usuario");
+
+// console.log(array);
+
+//
+
+// 3-
+
+// const listaDeTarefas = []
+
+// let tarefaUm = prompt("qual a primeira tarefa");
+// let tarefaDois = prompt("qual a segunda");
+// let tarefaTres = prompt("qual a terceira");
+
+// listaDeTarefas.push(tarefaUm, tarefaDois, tarefaTres);
+
+// const listas = [0, 1, 2, 3];
+
+// console.log(listaDeTarefas);
+
+// let realizado = prompt("qual tarefa voce ja realizou? a 1, 2 ou 3?");
+
+// listaDeTarefas.splice(realizado);
+
+// console.log(listaDeTarefas);
+
+//
